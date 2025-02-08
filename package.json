@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "xlsx": "^0.18.5",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "nodemailer": "^6.10.0",
+    "googleapis": "^144.0.0"
+  }
+}
