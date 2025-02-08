@@ -129,5 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-#Excel File
+# Extra File
 data.xlsx
+output_files
